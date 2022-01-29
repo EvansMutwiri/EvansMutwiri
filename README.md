@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Evans  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&color=%23035705&center=true&lines=Welcome+To+My+Github.;I+love+Ktor+get+in+touch!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&color=%23035705&center=true&lines=Welcome+To+My+Github.;I+love+Ktor!)](https://git.io/typing-svg)
 
 <!--
 **EvansMutwiri/EvansMutwiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
