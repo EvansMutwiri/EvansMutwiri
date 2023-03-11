@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Evans  I am a Mobile Developer
 
+### Find me here https://github.com/beeazy as well.
+
 #### Check out my apps by clicking <a href="https://drive.google.com/drive/folders/1OLA7p4qLgqK18aeaqVcLIAQnbswswtS_?usp=sharing" target="_blank">here</a>.
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&color=%23035705&center=true&lines=Welcome+To+My+Github.;I+love+Ktor!)](https://git.io/typing-svg) -->
 
